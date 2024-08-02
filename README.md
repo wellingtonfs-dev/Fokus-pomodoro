@@ -28,3 +28,5 @@ Este é um projeto de site que implementa o método Pomodoro para ajudar os usu�
 </ol>
 
 
+Se preferir você pode clicar no link: 
+[Fokus](https://fokus-pomodoro-three.vercel.app/)
