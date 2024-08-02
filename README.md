@@ -27,5 +27,4 @@ Este é um projeto de site que implementa o método Pomodoro para ajudar os usu�
 <li>Quando o cronômetro chegar ao fim, um alerta sonoro será emitido.</li>
 </ol>
 
-Se preferir usando o link:
-<a href="fokus-metodo-pomodoro.vercel.app">Fokus</a>
+
